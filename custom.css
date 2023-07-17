@@ -1,26 +1,26 @@
 :root {
-    --black-shadow-color: green;
-    --light-shadow-color: green;
-    --btn-gradients-light-hover-quiet-color: green;
-    --btn-gradients-light-pressed-color: green;
-    --btn-gradients-light-hover-color: green;
-    --blue-n1-color: green;
-    --grey-p1-color: green;
-    --grey-p5-color: green;
-    --grey-p6-color: green;
-    --grey-p7-color: green;
-    --grey-p8-color: green;
-    --grey-p9-color: green;
-    --grey-p3-color: green;
-    --grey-n1-color: green;
-    --grey-n5-color: green;
+    --black-shadow-color: purple;
+    --light-shadow-color: purple;
+    --btn-gradients-light-hover-quiet-color: purple;
+    --btn-gradients-light-pressed-color: purple;
+    --btn-gradients-light-hover-color: purple;
+    --blue-n1-color: purple;
+    --grey-p1-color: purple;
+    --grey-p5-color: purple;
+    --grey-p6-color: purple;
+    --grey-p7-color: purple;
+    --grey-p8-color: purple;
+    --grey-p9-color: purple;
+    --grey-p3-color: purple;
+    --grey-n1-color: purple;
+    --grey-n5-color: purple;
     --very-light-grey-color: #f9f9f9;
     --icon-light-blue-color: #005eac;
     --light-sky-blue-color: rgba(136, 221, 255, 0.15);
     --rough-n-tumble-color: #5a4949;
     --light-secondary: #606060;
     --search-blue: #88DDFF;
-    --dodger-blue: green;
+    --dodger-blue: purple;
 }
 
 /* Font-family */
@@ -640,7 +640,7 @@ input:placeholder-shown {
 
 /* Pinboard */
 
-/* User Information (name and user badges) are not requigreen */
+/* User Information (name and user badges) are not requipurple */
 .bk-top-users {
     display: none !important;
 }
